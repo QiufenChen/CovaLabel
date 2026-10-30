@@ -1,0 +1,4 @@
+﻿Source_dataset,Case_dataset,Probe,Target_residue,Strategy,Models,AUROC,AP,AP_baseline,AP_fold_over_baseline,Precision@100,Recall@100,EF@100,Precision@500,Recall@500,EF@500,Precision@1000,Recall@1000,EF@1000
+Human_Lysate_100uM,Human_Lysate_1mM,PhGO-alkyne,R,random,5,0.820 ± 0.015,0.003 ± 0.000,0.001 ± 0.000,4.532 ± 0.747,0.004 ± 0.005,0.001 ± 0.001,6.160 ± 8.435,0.005 ± 0.002,0.006 ± 0.002,7.392 ± 2.755,0.006 ± 0.002,0.014 ± 0.006,8.932 ± 3.834
+Human_Lysate_100uM,Human_Lysate_1mM,PhGO-alkyne,R,cold_protein,5,0.822 ± 0.028,0.004 ± 0.001,0.001 ± 0.000,5.773 ± 1.588,0.018 ± 0.008,0.004 ± 0.002,27.719 ± 12.884,0.012 ± 0.006,0.014 ± 0.007,17.863 ± 9.592,0.008 ± 0.002,0.019 ± 0.006,12.320 ± 3.772
+Human_Lysate_100uM,Human_Lysate_1mM,PhGO-alkyne,R,cold_probe,5,0.788 ± 0.022,0.002 ± 0.000,0.001 ± 0.000,3.839 ± 0.327,0.002 ± 0.004,0.000 ± 0.001,3.080 ± 6.887,0.003 ± 0.003,0.004 ± 0.004,4.928 ± 4.671,0.004 ± 0.001,0.010 ± 0.003,6.160 ± 1.886

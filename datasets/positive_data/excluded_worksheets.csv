@@ -1,0 +1,29 @@
+﻿Worksheet,Information
+SA IA-alkyne 1 mM 1-1,"Amino acid selectivity for IA-alkyne at 1 mM probe concentration in the proteome of S. aureus SH1000 (pre-published data set, heavy and light sample mixed at a ratio of 1:1)"
+SA IA-alkyne 1 mM 4-1,"Amino acid selectivity for IA-alkyne at 1 mM probe concentration in the proteome of S. aureus SH1000 (pre-published data set, heavy and light sample mixed at a ratio of 4:1)"
+SA IA-alkyne no enrichment,Amino acid selectivity for IA-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 without clicking and without enrichment
+SA EBX1-alkyne exp,Amino acid selectivity for EBX1-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 at the mass of modification for the expected modification by alkynylation
+SA EBX1-alkyne VI,Amino acid selectivity for EBX1-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 at the mass of modification for the modification as vinyl iodide
+SA EBX1-alkyne VBX,Amino acid selectivity for EBX1-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 at the mass of modification for the modification as vinylbenziodoxolone
+SA MeTet-alkyne 5 min irr.,Amino acid selectivity for MeTet-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 (5 min irradiation)
+SA MeTet-alkyne 30 min irr exp,Amino acid selectivity for MeTet-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 (30 min irradiation) at the mass of modification for the expected modification as diacylated hydrazine
+SA MeTet-alkyne 30 min irr Aryl,Amino acid selectivity for MeTet-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 (30 min irradiation) at the mass of modification for the modification by arylation
+SA Az-alkyne comb,Amino acid selectivity for Az-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000  at the masses of modification of the expected modifcation and the expected modification +1 Da
+SA Az-alkyne exp,Amino acid selectivity for Az-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 at the mass of modification of the expected modifcation
+SA Az-alkyne exp+1,Amino acid selectivity for Az-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000  at the mass of modification of the expected modifcation + 1 Da
+SA Az-alkyne comb in situ,Amino acid selectivity for Az-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000  with probe treatment in situ at the masses of modification of the expected modifcation and the expected modification +1 Da
+HS Az-alkyne comb,Amino acid selectivity for Az-alkyne at 100 µM probe concentration in the proteome of the human cancer cell line MDA-MB-231 at the masses of modification of the expected modifcation and the expected modification +1 Da
+HS Az-alkyne exp,Amino acid selectivity for Az-alkyne at 100 µM probe concentration in the proteome of the human cancer cell line MDA-MB-231 at the mass of modification of the expected modifcation
+HS Az-alkyne exp+1,Amino acid selectivity for Az-alkyne at 100 µM probe concentration in the proteome of the human cancer cell line MDA-MB-231 at the mass of modification of the expected modifcation + 1 Da
+SA PTAD-alkyne exp,Amino acid selectivity for PTAD-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 at the mass of modification of the expected modifcation
+SA PTAD-alkyne NCO,Amino acid selectivity for PTAD-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 at the mass of modifcation resulting from reactivity as isocyanate
+SA PTAD-alkyne Tris exp,Amino acid selectivity for PTAD-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 (200 mM Tris-HCl pH = 7.4 added to sample) at the mass of modification of the expected modifcation
+SA PTAD-alkyne Tris NCO,Amino acid selectivity for PTAD-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 (200 mM Tris-HCl pH = 7.4 added to sample) at the mass of modifcation resulting from reactivity as isocyanate
+HS PTAD-alkyne exp,Amino acid selectivity for PTAD-alkyne at 100 µM probe concentration in the proteome of the human cancer cell line MDA-MB-231 at the mass of modification of the expected modifcation
+HS PTAD-alkyne NCO,Amino acid selectivity for PTAD-alkyne at 100 µM probe concentration in the proteome of the human cancer cell line MDA-MB-231 at the mass of modifcation resulting from reactivity as isocyanate
+SA DA1-alkyne Zeba,Amino acid selectivity for DA1-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 (Zeba Spin purification before CuAAC to isoDTB tags)
+SA CP-alkyne no Ar,Amino acid selectivity for CP-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 (irradiation open to air)
+SA PhGO-alkyne exp,Amino acid selectivity for PhGO-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 at the mass of modification of the expected modifcation
+SA PhGO-alkyne ox,Amino acid selectivity for PhGO-alkyne at 100 µM probe concentration in the proteome of S. aureus SH1000 at the mass of modifcation of the oxidation product
+SA PhGO-alkyne 1 mM exp,Amino acid selectivity for PhGO-alkyne at 1 mM probe concentration in the proteome of S. aureus SH1000 at the mass of modification of the expected modifcation
+SA PhGO-alkyne 1 mM ox,Amino acid selectivity for PhGO-alkyne at 1 mM probe concentration in the proteome of S. aureus SH1000 at the mass of modifcation of the oxidation product

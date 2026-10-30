@@ -1,0 +1,2 @@
+﻿Dataset,Training_dataset,Probe,Probe_status,Target_residues,Input_positive_rows,Retained_target_positive_sites,Excluded_internal_non_target_positive_rows,Excluded_terminal_positive_rows,Forward_FASTA_proteins,Proteins_with_candidate_sites,Unlabeled_candidate_sites,Total_candidate_sites,Negative_sampling,Dataset_partitioning
+Human_Lysate_1mM,Human_Lysate_100uM,PhGO-alkyne,unseen in training dataset,R,462,420,41,1,20868,20778,646361,646781,none,none
